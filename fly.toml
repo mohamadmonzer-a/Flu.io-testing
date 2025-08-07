@@ -1,0 +1,4 @@
+app = "flu-io-testing"
+
+[build]
+  dockerfile = "Dockerfile"
