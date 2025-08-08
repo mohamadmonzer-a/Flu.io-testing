@@ -9,3 +9,8 @@ langchain-openai
 langchain-community
 fastapi
 uvicorn
+openai
+requests
+bs4
+PyMuPDF
+supabase
