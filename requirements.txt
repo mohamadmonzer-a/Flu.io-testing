@@ -7,3 +7,5 @@ google-auth-oauthlib
 PyMuPDF
 langchain-openai
 langchain-community
+fastapi
+uvicorn
